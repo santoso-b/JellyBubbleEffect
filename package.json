@@ -1,0 +1,26 @@
+{
+"name": "jellybubbleeffect-santoso",
+"version": "1.0.0",
+"description": "This repository demonstrates a simple implementation of a jelly bubble effect using JavaScript. It creates a canvas element and draws multiple bubbles with a jelly-like animation.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/santoso-b/JellyBubbleEffect.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "santoso-b",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
